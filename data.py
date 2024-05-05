@@ -13,7 +13,7 @@ page_bg_img="""
 <style>
 [data-testid="stAppViewContainer"] 
 {
-background-image:url("background-image:url("https://cdn.wallpapersafari.com/32/35/8bH0vE.jpg");
+background-image:url("https://cdn.wallpapersafari.com/32/35/8bH0vE.jpg");
 
 background-size:cover;
 }
