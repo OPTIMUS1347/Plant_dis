@@ -13,8 +13,8 @@ page_bg_img="""
 <style>
 [data-testid="stAppViewContainer"] 
 {
-background-image:url("https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-");
+background-image:url("background-image:url("https://cdn.wallpapersafari.com/32/35/8bH0vE.jpg");
+
 background-size:cover;
 }
 </style>
